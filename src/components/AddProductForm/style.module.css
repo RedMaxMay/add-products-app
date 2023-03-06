@@ -1,0 +1,29 @@
+.form {
+  background-color: rgb(237, 242, 255);
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+
+.form input {
+  margin: 5px;
+  padding: 7px;
+  border-radius: 5px;
+  border: none;
+}
+
+.form button {
+  padding: 7px;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(162, 220, 162);
+}
+
+.form button:hover {
+  background-color: rgb(127, 189, 127);
+  cursor: pointer;
+}

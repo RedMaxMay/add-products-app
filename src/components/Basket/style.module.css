@@ -1,0 +1,13 @@
+.basket {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.basket h1 {
+  margin: 20px;
+}

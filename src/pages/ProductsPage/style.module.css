@@ -1,0 +1,13 @@
+.products {
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    width: 50%;
+}
+
+.products h2 {
+    text-align: center;
+    margin: 20px;
+}
